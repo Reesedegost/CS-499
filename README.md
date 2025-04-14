@@ -1,5 +1,5 @@
-## CS-499
-# Professional Self-Assessment
+# CS-499
+## Professional Self-Assessment
   Completing my Bachelor of Science in Computer Science has been a transformative experience, one that not only deepened my technical skillset but also helped me solidify my professional identity and goals. Through hands-on coursework, real-world-inspired projects, and the creation of this ePortfolio, I have been able to reflect on my growth, showcase my capabilities, and position myself as a competent and employable candidate in the competitive field of computer science. This portfolio serves as both a culmination of my academic journey and a launching point into my professional career, particularly as I transition into a Data Science Engineer role in the quality and manufacturing space.
   
   Throughout the program, I’ve had the opportunity to engage in collaborative team environments, mirroring real-world development settings. In one of my software engineering courses, I worked with a group to design and implement a web application from scratch, practicing agile methodologies and version control with GitHub. This experience sharpened my ability to contribute effectively in team-based projects, prioritize tasks, and communicate technical decisions clearly. In professional settings, I’ve applied these skills to streamline quality reporting through dashboard automation and data visualization.
@@ -17,3 +17,5 @@
   Each artifact was selected not only for its technical merit but also for how it aligns with my long-term professional goals: to bridge the gap between data and decision-making in the manufacturing and semiconductor industries. Whether it’s streamlining quality reporting or preparing for advanced machine learning applications, these projects demonstrate my readiness to contribute meaningfully to any data-driven or software-focused team.
   
   As a soon-to-be graduate, I am confident that the combination of my academic training, real-world project experience, and continuous learning mindset will allow me to thrive in the evolving field of computer science.
+
+## Code Review Software Design and Engineering Reese Hinojosa https://youtu.be/Dm8c5c5xg5k
