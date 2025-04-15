@@ -19,3 +19,4 @@
   As a soon-to-be graduate, I am confident that the combination of my academic training, real-world project experience, and continuous learning mindset will allow me to thrive in the evolving field of computer science.
 
 ## Code Review Software Design and Engineering Reese Hinojosa https://youtu.be/Dm8c5c5xg5k
+## Code Review Data Structures and Algorithms Reese Hinojosa https://youtu.be/i6mcY72OT8Q
