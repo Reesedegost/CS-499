@@ -8,6 +8,10 @@ title: Home
 ## Table of Content
 - [Professional Self-Assessment](#professional-self-assessment)
 - [Enhancement Plan and Code Review](#enhancement-plan-and-code-review)
+  - [Code Review Videos Link](#code-review-videos-link)
+- [Sofware Design and Engineering](#software-design-and-engineering)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
+- [Databases](#databases)
 
 ## Professional Self-Assessment
 
@@ -27,6 +31,9 @@ The artifacts in this portfolio reflect my broad skill set and my focus on pract
 
 Each artifact was selected not only for its technical merit but also for how it aligns with my long-term professional goals: to bridge the gap between data and decision-making in the manufacturing and semiconductor industries. Whether it’s streamlining quality reporting or preparing for advanced machine learning applications, these projects demonstrate my readiness to contribute meaningfully to any data-driven or software-focused team.
 
+As a soon-to-be graduate, I am confident that the combination of my academic training, real-world project experience, and continuous learning mindset will allow me to thrive in the evolving field of computer science.
+
 ## Enhancement Plan and Code Review
 
-As a soon-to-be graduate, I am confident that the combination of my academic training, real-world project experience, and continuous learning mindset will allow me to thrive in the evolving field of computer science.
+
+
