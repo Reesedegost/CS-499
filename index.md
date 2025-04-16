@@ -5,9 +5,11 @@ title: Home
 
 # Welcome!
 
-This is my GitHub Pages site powered by Jekyll and the Minima theme.
+## Table of Content
+- [Professional Self-Assessment](#professional-self-assessment)
+- [Enhancement Plan and Code Review](#enhancement-plan-and-code-review)
 
-# Professional Self-Assessment
+## Professional Self-Assessment
 
 Completing my Bachelor of Science in Computer Science has been a transformative experience, one that not only deepened my technical skillset but also helped me solidify my professional identity and goals. Through hands-on coursework, real-world-inspired projects, and the creation of this ePortfolio, I have been able to reflect on my growth, showcase my capabilities, and position myself as a competent and employable candidate in the competitive field of computer science. This portfolio serves as both a culmination of my academic journey and a launching point into my professional career, particularly as I transition into a Data Science Engineer role in the quality and manufacturing space.
 
@@ -24,5 +26,7 @@ Security is a vital concern in all modern software systems, and my coursework ex
 The artifacts in this portfolio reflect my broad skill set and my focus on practical, impactful computing solutions. They range from interactive dashboards that analyze manufacturing defect trends to responsive websites designed with accessibility in mind. Together, they highlight my ability to apply computer science principles in diverse contexts, spanning front-end and back-end development, data management, and user-centered design.
 
 Each artifact was selected not only for its technical merit but also for how it aligns with my long-term professional goals: to bridge the gap between data and decision-making in the manufacturing and semiconductor industries. Whether it’s streamlining quality reporting or preparing for advanced machine learning applications, these projects demonstrate my readiness to contribute meaningfully to any data-driven or software-focused team.
+
+## Enhancement Plan and Code Review
 
 As a soon-to-be graduate, I am confident that the combination of my academic training, real-world project experience, and continuous learning mindset will allow me to thrive in the evolving field of computer science.
