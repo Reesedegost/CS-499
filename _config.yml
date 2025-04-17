@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: Reese Hinojosa ePortfolio
 description: SNHU CS499 - Computer Science Capstone
+show_downloads: true
+google_analytics:
