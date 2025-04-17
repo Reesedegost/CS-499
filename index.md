@@ -24,6 +24,10 @@ Throughout the program, I’ve had the opportunity to engage in collaborative te
 
 Communication with stakeholders has also been a core component of both my coursework and work experience. Whether it’s translating complex technical findings into actionable insights for quality engineers or presenting project updates to non-technical peers in academic settings, I’ve learned how crucial clear, audience-tailored communication is in driving project success. For example, in a course focused on human-computer interaction, I designed a user-centered plant nursery website, prioritizing accessibility and usability—an experience that deepened my understanding of end-user needs and stakeholder alignment.
 
+<img id="Bloom Valley Nursery Website" src="images/Bloom Valley Nursery.png" alt="Bloom Valley Nursery Website" title="Bloom Valley Nursery Website" />
+
+<img id="Nursery Gallery" src="images/Nursery Gallery.png" alt="Nursery Gallery" title="Nursery Gallery" />
+
 My foundational understanding of data structures and algorithms was built through rigorous coursework and hands-on problem-solving. Concepts like binary trees, hash maps, and sorting algorithms have become second nature, and I’ve practiced applying them to optimize code efficiency and solve real-world problems. These fundamentals support my growing expertise in quality-focused data analysis, especially as I move toward implementing machine learning models for defect prediction.
 
 In the realm of software engineering and databases, I’ve developed and deployed full-stack applications using technologies like Angular, Express, and MongoDB. In one key project, I migrated defect data from Excel into MongoDB and built an interactive dashboard using Dash and Plotly. This not only enhanced performance and scalability but also modernized how quality metrics are tracked and analyzed. Through this process, I gained a strong appreciation for designing reliable database schemas, building RESTful APIs, and writing maintainable backend code.
