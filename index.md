@@ -16,7 +16,7 @@ title: Home
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Databases](#databases)
 
-<img id="Professional-self-assessment" src="images/Professional-self-assessment.jpeg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
+<img id="Professional-self-assessment" src="images/Professional-self-assessment.jpg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
 Completing my Bachelor of Science in Computer Science has been a transformative experience, one that not only deepened my technical skillset but also helped me solidify my professional identity and goals. Through hands-on coursework, real-world-inspired projects, and the creation of this ePortfolio, I have been able to reflect on my growth, showcase my capabilities, and position myself as a competent and employable candidate in the competitive field of computer science. This portfolio serves as both a culmination of my academic journey and a launching point into my professional career, particularly as I transition into a Data Science Engineer role in the quality and manufacturing space.
 
