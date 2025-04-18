@@ -42,6 +42,12 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 
 ## Enhancement Plan and Code Review
 
+<div style="text-align: center;">
+	<a href="CodeReview" title="Artifacts Code Review">
+		<img src="https://img.shields.io/badge/Artifacts-Refinement_Plan and_Code_Review-yellowgreen.svg?style=for-the-badge&logo=codereview" alt="Artifacts: Refinement Plan and Code Review" />
+	</a>
+</div>
+
 <img id="Software Design and Engineering" src="images/software-engineering.png" alt="software-engineering" title="Software Design and Engineering" />
 
 <img id="Data Structures and Algorithms" src="images/ds-and-a.jpg" alt="Data Structures and Algorithms" title="Data Structures and Algorithms" />
