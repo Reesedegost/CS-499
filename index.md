@@ -12,7 +12,7 @@ title: Home
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
 - [Enhancement Plan and Code Review](#enhancement-plan-and-code-review)
   - [Code Review Videos Link](#code-review-videos-link)
-- [Sofware Design and Engineering](#software-design-and-engineering)
+&nbsp;[Software Design and Engineering](#software-engineering "Software Design and Engineering")<br/>
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Databases](#databases)
 
@@ -41,6 +41,8 @@ Each artifact was selected not only for its technical merit but also for how it 
 As a soon-to-be graduate, I am confident that the combination of my academic training, real-world project experience, and continuous learning mindset will allow me to thrive in the evolving field of computer science.
 
 ## Enhancement Plan and Code Review
+
+<img id="Software Design and Engineering" src="images/software-engineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
 > This is a blockquote following a header.
 >
