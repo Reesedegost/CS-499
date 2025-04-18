@@ -3,13 +3,6 @@ layout: default
 title: Home
 ---
 
-<nav id="sidebar-menu" style="margin: 30px 0; font-family: 'Architects Daughter';">
-            <h2>Navigation</h2>
-            <p><a href="https://reesedegost.github.io/CS-499/" title="ePortfolio Home"><img
-                  src="https://img.shields.io/badge/Home-ePortfolio-blue.svg?style=for-the-badge&logo=homeassistant"
-                  alt="Reese Hinojosa ePortfolio Home" /></a></p>
-          </nav>
-
 [Link to another page](./another-page.html).
 
 # Welcome!
