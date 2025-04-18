@@ -42,7 +42,7 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 
 ## Enhancement Plan and Code Review
 
-<img id="Software Design and Engineering" src="images/software-engineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
+<img id="software-engineering" src="images/software-engineering.png" alt="software-engineering" title="Software Design and Engineering" />
 
 > This is a blockquote following a header.
 >
