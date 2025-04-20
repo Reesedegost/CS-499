@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 # Data Structures and Algorithms Enhancement Narrative
 
