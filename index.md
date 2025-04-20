@@ -168,11 +168,19 @@ Instead of manually searching through spreadsheets or relying on scattered repor
 
 In short, the tools I create aren’t just about tracking defects—they empower my company to act on quality data more effectively. That leads to cost savings, higher product reliability, and ultimately a stronger competitive edge. As our processes evolve, these systems can also scale and adapt, making them long-term assets rather than short-term solutions.
 
+<img id="Defect Dash" src="images/defect-chart1.png" alt="Defect Dash" title="Defect Dash" />
+
 ---
 
 [Databases](./databases.html)
 
 ---
+
+<div style="text-align: center;">
+	<a href="#Databases" title="Databases Enhancement">
+		<img src="https://img.shields.io/badge/Artifact-Enhancement_Plan_and_Code_Review-yellowgreen.svg?style=for-the-badge&logo=codereview" alt="Artifacts: Refinement Plan and Code Review" />
+	</a>
+</div>
 
 <div style="text-align: right;">
     <a href="#">
