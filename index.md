@@ -50,6 +50,12 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 
 <img id="Software Design and Engineering" src="images/software-engineering.png" alt="software-engineering" title="Software Design and Engineering" />
 
+---
+
+Artifact original files repository at [CS340](https://github.com/reesedegost/ePortfolio/tree/main/CS340 "CS340")
+
+---
+
 <img id="Data Structures and Algorithms" src="images/ds-and-a.jpg" alt="Data Structures and Algorithms" title="Data Structures and Algorithms" />
 
 <img id="Databases" src="images/database.avif" alt="Databases" title="Databases" />
