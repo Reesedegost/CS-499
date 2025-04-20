@@ -3,22 +3,20 @@ layout: default
 title: Home
 ---
 
-[Link to another page](./another-page.html).
-
-# Welcome!
-
 # Welcome!
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/reese-hinojosa-5a4636287/)
 
+[Link to another page](./another-page.html).
+
 # <u>Table of Content</u>
 
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
-- [Enhancement Plan and Code Review](#enhancement-plan-and-code-review)
-  - [Code Review Videos Link](#code-review-videos-link)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Enhancement Plan and Code Review](#enhancement-plan-and-code-review)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Code Review Videos Link](#code-review-videos-link)<br/>
 &nbsp;[Software Design and Engineering](#software-engineering "Software Design and Engineering")<br/>
-- [Data Structures and Algorithms](#data-structures-and-algorithms)
-- [Databases](#databases)
+&nbsp;&nbsp;&nbsp;&nbsp;- [Data Structures and Algorithms](#data-structures-and-algorithms)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;- [Databases](#databases)<br/>
 
 <img id="Professional-self-assessment" src="images/Professional-self-assessment.jpg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
@@ -43,6 +41,24 @@ The artifacts in this portfolio reflect my broad skill set and my focus on pract
 Each artifact was selected not only for its technical merit but also for how it aligns with my long-term professional goals: to bridge the gap between data and decision-making in the manufacturing and semiconductor industries. Whether it’s streamlining quality reporting or preparing for advanced machine learning applications, these projects demonstrate my readiness to contribute meaningfully to any data-driven or software-focused team.
 
 As a soon-to-be graduate, I am confident that the combination of my academic training, real-world project experience, and continuous learning mindset will allow me to thrive in the evolving field of computer science.
+
+###### Professional Skillset
+
+| Hard Skills                         | Soft Skills                                 |
+|:------------------------------------|:--------------------------------------------|
+| Python                              | Analytical thinking and problem-solving     |
+| Dash and Plotly                     | Attention to detail                         |
+| Pandas & NumPy                      | Communication                               |
+| MongoDB                             | Collaboration and cross-functional teamwork |
+| SQL                                 | Adaptability                                |
+| JavaScript / Angular                | Time management                             |
+| RESTful APIs                        | Initiative                                  |
+| HTML/CSS                            | Continuous learning and self-improvement    |
+| Data visualization                  | Empathy and user-centered design thinking   |
+| Git & GitHub                        | Critical thinking                           |
+| Excel                               | Leadership                                  |
+| Quality control data analysis       |                                             |
+| Reort automation tools and workflows|                                             |
 
 ## Enhancement Plan and Code Review
 
@@ -75,15 +91,6 @@ var fun = function lang(l) {
   return true;
 }
 ```
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
