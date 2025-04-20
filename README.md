@@ -15,11 +15,11 @@ Your code review video
     
 Your original and enhanced artifact or artifacts
 
-    Located in Original Artifact folder & 
+    Located in Original Artifact folder & Enhanced Artifacts folder
     
 Your narratives addressing the enhancements you have implemented, the specific skills you have demonstrated, and the specific course outcomes that align with your enhancements.
 
-    Located in each Enhancement folder
+    Located in Narratives folder
     
 Your professional self-assessment. While you complete this last in the course, it should be the first thing presented in your ePortfolio. The self-assessment will function as a holistic introduction to you, your skills that can be quantifiably supported with your completed enhancements of the artifacts, and your ePortfolio.
 
