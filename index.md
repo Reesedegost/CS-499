@@ -12,11 +12,11 @@ title: Home
 # <u>Table of Content</u>
 
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;- [Enhancement Plan and Code Review](#enhancement-plan-and-code-review)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Code Review Videos Link](#code-review-videos-link)<br/>
-&nbsp;[Software Design and Engineering](#software-engineering "software-engineering")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;- [Data Structures and Algorithms](#ds-and-a "ds-and-a")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;- [Database](#database "database")<br/>
+&nbsp;[Enhancement Plan and Code Review](#enhancement-plan-and-code-review)<br/>
+&nbsp;&nbsp;[Code Review Videos Link](#code-review-videos-link)<br/>
+&nbsp;[Software Design and Engineering](#Software-Design-and-Engineering "Software Design and Engineering")<br/>
+&nbsp;[Data Structures and Algorithms](#Data-Structures-and-Algorithms "Data Structures and Algorithms")<br/>
+&nbsp;[Databases](#Databases "Databases")<br/>
 
 <img id="Professional-self-assessment" src="images/Professional-self-assessment.jpg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
