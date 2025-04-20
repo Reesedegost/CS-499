@@ -7,7 +7,13 @@
 
 ---
 
-## Code Review Software Design and Engineering Reese Hinojosa https://youtu.be/Dm8c5c5xg5k
-## Code Review Data Structures and Algorithms Reese Hinojosa https://youtu.be/i6mcY72OT8Q
-## Code Review Databases Reese Hinojosa https://youtu.be/dXg7A76T2cQ
-## Code Review All In One Reese Hinojosa https://youtu.be/8_tCsclndNA
+My professional ePortfolio contains the following:
+
+Your code review video
+    Located in youtube & each categories .md / .html
+Your original and enhanced artifact or artifacts
+    Located in Original Artifact folder & 
+Your narratives addressing the enhancements you have implemented, the specific skills you have demonstrated, and the specific course outcomes that align with your enhancements.
+    Located in each Enhancement folder
+Your professional self-assessment. While you complete this last in the course, it should be the first thing presented in your ePortfolio. The self-assessment will function as a holistic introduction to you, your skills that can be quantifiably supported with your completed enhancements of the artifacts, and your ePortfolio.
+    Located at the top of index.md
