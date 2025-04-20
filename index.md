@@ -52,7 +52,7 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 
 ---
 
-Artifact original files repository at [CS340]((https://github.com/Reesedegost/CS-499/blob/main/CS340 "CS340")
+Artifact original files repository at [CS340]((https://github.com/Reesedegost/CS-499/blob/main/CS340.md "CS340")
 
 ---
 
