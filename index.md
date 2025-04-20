@@ -90,7 +90,19 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 
 <img id="Data Structures and Algorithms" src="images/ds-and-a.jpg" alt="Data Structures and Algorithms" title="Data Structures and Algorithms" />
 
+---
+
+[Data Structures and Algorithms](./data-structures-and-algorithms.html)
+
+---
+
 <img id="Databases" src="images/database.avif" alt="Databases" title="Databases" />
+
+---
+
+[Databases](./databases.html)
+
+---
 
 > This is a blockquote following a header.
 >
