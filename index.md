@@ -78,9 +78,15 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 
 <img id="Software-Design-and-Engineering" src="images/software-engineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
+Writing maintainable, readable, and adaptable programs requires careful planning, modular design, and adherence to coding standards. In Project One, the CRUD Python module was designed with reusability in mind. The use of clean function definitions, clear documentation, and consistent naming conventions made the code easy to understand and extend. For example, each CRUD operation (Create, Read, Update, Delete) was implemented as an independent function, allowing for quick debugging and adaptation to new requirements. Working this way offers significant advantages, such as making it easier to connect the dashboard widgets to the database in Project Two. This modularity reduces redundancy and allows for efficient data management and visualization. In the future, this CRUD Python module could be reused in other projects requiring database interactions, such as building an inventory management system or automating data processing tasks.
+
+As a computer scientist, problem-solving involves breaking down the problem into manageable components, identifying key requirements, and leveraging appropriate tools or techniques to build a solution. For the Grazioso Salvare project, I started by analyzing the database schema and dashboard requirements. I used an iterative development process, where I first implemented basic CRUD operations and then integrated those operations with the dashboard. This approach differed from previous assignments because it involved connecting multiple layers: a database (MongoDB), Python middleware (CRUD module), and a visualization layer (Dash/Plotly). I also employed debugging techniques such as logging and testing individual modules to ensure seamless integration. In the future, I would adopt a similar systematic approach while also prioritizing user feedback to refine features and meet client needs effectively.
+
+Computer scientists solve complex problems by designing algorithms, creating systems, and building tools that improve efficiency, productivity, and decision-making. This work is essential in enabling organizations to harness technology for better outcomes. For a company like Grazioso Salvare, my work on the dashboard and database can streamline their operations, providing quick and accurate insights into animal shelter data. For instance, they can identify trends in animal intake or visualize breed distributions, enabling better resource allocation and decision-making. Such tools improve operational efficiency and contribute to the company’s broader mission of animal welfare. By delivering functional, user-friendly solutions, computer scientists help organizations achieve their goals more effectively.
+
 ---
 
-[Software Design and Engineering](./software-design-and-engineering.html)
+[Software Design and Engineering Enhancement](./software-design-and-engineering.html)
 
 ---
 
@@ -92,11 +98,31 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 
 <img id="Data-Structures-and-Algorithms" src="images/ds-and-a.jpg" alt="Data Structures and Algorithms" title="Data Structures and Algorithms" />
 
+For this project, I was provided with starter code that set up the game environment and some basic functionality for the treasure hunt game. My primary task was to implement a deep Q-learning algorithm to train the pirate agent to navigate the environment and find the treasure before the human player.
+
+I developed the reinforcement learning model by creating a neural network that approximates Q-values, allowing the agent to make decisions about which path to take. I implemented key techniques like experience replay to prevent overfitting and target networks to stabilize the training process. The core of my work focused on balancing exploration and exploitation to optimize the agent’s pathfinding ability. Through iterative training, I fine-tuned the agent's strategy to ensure it learned to avoid obstacles and find the treasure efficiently.
+
+A key challenge in this project was ensuring that the agent could learn to adapt to new environments and obstacles, which I addressed by using techniques like epsilon-greedy exploration. This allowed the agent to explore new strategies early on, but gradually shift toward exploiting learned behaviors as training progressed.
+
+As a result, I was able to create an intelligent agent that could effectively navigate the maze-like environment and consistently find the treasure, demonstrating the power of deep Q-learning for pathfinding in AI.
+
+Computer scientists develop algorithms and systems to solve complex problems, such as pathfinding in games or data analysis. Their work underpins technology we use daily, from AI in gaming to self-driving cars, and has widespread implications for automation, security, and efficiency.
+
+As a computer scientist, I first break down the problem into smaller, manageable components, such as the goal of pathfinding or decision-making. I then apply methods such as algorithm design, data analysis, and machine learning to address the challenge. In this case, I utilized deep Q-learning, balancing exploration and exploitation to efficiently solve the pathfinding problem.
+
+Ethical responsibilities include ensuring fairness, transparency, and privacy in AI applications. For the game, I must ensure that the agent behaves in a fair and predictable way, avoiding making the game unfairly difficult. Furthermore, I am responsible for the integrity of the code, ensuring it functions as intended without causing harm or unintended consequences.
+
 ---
 
 [Data Structures and Algorithms](./data-structures-and-algorithms.html)
 
 ---
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 <img id="Databases" src="images/database.avif" alt="Databases" title="Databases" />
 
@@ -105,6 +131,12 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 [Databases](./databases.html)
 
 ---
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 > This is a blockquote following a header.
 >
@@ -121,14 +153,6 @@ var fun = function lang(l) {
 ### There's a horizontal rule below this.
 
 * * *
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
