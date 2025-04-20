@@ -52,7 +52,7 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 
 ---
 
-[Link to CS340.md](./CS340.html)
+([./CS340.html](https://github.com/Reesedegost/CS-499/blob/main/CS340.md))
 
 ---
 
