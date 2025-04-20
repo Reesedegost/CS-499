@@ -11,3 +11,9 @@ I selected this artifact for my ePortfolio because it demonstrates my ability to
 Through these enhancements, I have successfully aligned my project with the course outcomes related to designing and evaluating computing solutions using algorithmic principles. The improvements showcase my ability to optimize learning models and handle dynamic decision-making scenarios. I have met my planned course outcomes, which involved improving algorithm efficiency and integrating more complex decision-making processes.
 
 Reflecting on the enhancement process, I learned a great deal about the challenges of optimizing reinforcement learning models. Implementing a decaying learning rate required careful tuning to balance exploration and exploitation. Additionally, adjusting the Q-learning parameters to ensure stable training without overfitting was a complex but rewarding challenge. One of the primary difficulties I faced was debugging unexpected agent behaviors, which required extensive testing and analysis of reward function modifications. Overall, this enhancement process deepened my understanding of reinforcement learning and further strengthened my skills in algorithms and data structures, making this artifact a valuable addition to my ePortfolio.
+
+## Code Review Video
+
+Below is the code review video for Data Structures and Algorithms:
+
+<iframe width="560" height="315" src="https://youtu.be/i6mcY72OT8Q" title="Code Review Data Structures and Algorithms - Reese Hinojosa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
