@@ -9,6 +9,10 @@ title: Home
 
 [Email me](reeselegacyprep@gmail.com)
 
+> Looking back on this project, I realize how much I've grown—not just in technical skills, but in patience, persistence, and problem-solving.
+>
+> Every challenge was a chance to learn, and every setback helped shape a stronger outcome.
+
 # <u>Table of Content</u>
 
 &nbsp;[Professional Self-Assessment](#Professional-Self-Assessment "Professional Self-Assessment")<br/>
@@ -25,10 +29,6 @@ Completing my Bachelor of Science in Computer Science has been a transformative 
 Throughout the program, I’ve had the opportunity to engage in collaborative team environments, mirroring real-world development settings. In one of my software engineering courses, I worked with a group to design and implement a web application from scratch, practicing agile methodologies and version control with GitHub. This experience sharpened my ability to contribute effectively in team-based projects, prioritize tasks, and communicate technical decisions clearly. In professional settings, I’ve applied these skills to streamline quality reporting through dashboard automation and data visualization.
 
 Communication with stakeholders has also been a core component of both my coursework and work experience. Whether it’s translating complex technical findings into actionable insights for quality engineers or presenting project updates to non-technical peers in academic settings, I’ve learned how crucial clear, audience-tailored communication is in driving project success. For example, in a course focused on human-computer interaction, I designed a user-centered plant nursery website, prioritizing accessibility and usability—an experience that deepened my understanding of end-user needs and stakeholder alignment.
-
-<img id="Bloom Valley Nursery Website" src="images/Bloom Valley Nursery.png" alt="Bloom Valley Nursery Website" title="Bloom Valley Nursery Website" />
-
-<img id="Nursery Gallery" src="images/Nursery Gallery.png" alt="Nursery Gallery" title="Nursery Gallery" />
 
 My foundational understanding of data structures and algorithms was built through rigorous coursework and hands-on problem-solving. Concepts like binary trees, hash maps, and sorting algorithms have become second nature, and I’ve practiced applying them to optimize code efficiency and solve real-world problems. These fundamentals support my growing expertise in quality-focused data analysis, especially as I move toward implementing machine learning models for defect prediction.
 
@@ -90,6 +90,12 @@ Overall, this structured review approach will help identify strengths and areas 
 	</a>
 </div>
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
 <img id="Software-Design-and-Engineering" src="images/software-engineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
 Writing maintainable, readable, and adaptable programs requires careful planning, modular design, and adherence to coding standards. In Project One, the CRUD Python module was designed with reusability in mind. The use of clean function definitions, clear documentation, and consistent naming conventions made the code easy to understand and extend. For example, each CRUD operation (Create, Read, Update, Delete) was implemented as an independent function, allowing for quick debugging and adaptation to new requirements. Working this way offers significant advantages, such as making it easier to connect the dashboard widgets to the database in Project Two. This modularity reduces redundancy and allows for efficient data management and visualization. In the future, this CRUD Python module could be reused in other projects requiring database interactions, such as building an inventory management system or automating data processing tasks.
@@ -145,36 +151,6 @@ Ethical responsibilities include ensuring fairness, transparency, and privacy in
 [Databases](./databases.html)
 
 ---
-
-<div style="text-align: right;">
-    <a href="#">
-        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
-    </a>
-</div>
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-### There's a horizontal rule below this.
-
-* * *
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
 
 <div style="text-align: right;">
     <a href="#">
