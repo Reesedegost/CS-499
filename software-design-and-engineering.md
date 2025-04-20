@@ -16,3 +16,9 @@ Throughout this process, I encountered several challenges, including managing da
 
 Enhancing this artifact has strengthened my expertise in software development, database management, and user interface design. It has also reinforced my ability to iterate on existing codebases, implement industry best practices, and develop scalable, maintainable software solutions. 
 This project serves as a testament to my growing proficiency in software engineering and data science applications, making it an ideal addition to my professional ePortfolio.
+
+## Code Review Video
+
+Below is the code review video for Software Design and Engineering:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dm8c5c5xg5k" title="Code Review Software Design and Engineering - Reese Hinojosa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
