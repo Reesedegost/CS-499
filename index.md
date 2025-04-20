@@ -9,8 +9,6 @@ title: Home
 
 [Email me](reeselegacyprep@gmail.com)
 
-[Link to another page](./another-page.html).
-
 # <u>Table of Content</u>
 
 &nbsp;[Professional Self-Assessment](#Professional-Self-Assessment "Professional Self-Assessment")<br/>
@@ -69,6 +67,22 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 </div>
 
 ## Enhancement Plan and Code Review
+
+Code review is a systematic examination of source code by developers to identify bugs, ensure adherence to coding standards, improve code maintainability, and enhance overall software quality. It is a collaborative process where peers evaluate each other’s code to provide constructive feedback and suggest improvements.
+
+Code review is essential for computer science professionals because it helps prevent defects from reaching production, improving software reliability and security. It also promotes knowledge sharing among team members, as developers learn from each other’s coding practices and techniques. Additionally, code reviews enforce consistency in coding style and best practices, making codebases easier to maintain and scale.
+
+According to the OWASP Code Review Guide and Pluralsight’s code review checklist, several best practices are essential for effective code reviews. One of the most critical aspects is checking for security vulnerabilities, such as SQL injection or improper authentication handling, to ensure secure coding practices are followed. Additionally, reviewers should assess code readability and maintainability by verifying that naming conventions are clear and consistent, complexity is minimized, and relevant comments are included. It is also important to validate the functionality and correctness of the code to confirm that it meets the intended requirements and behaves as expected. Adhering to established coding standards and style guides helps maintain consistency across the codebase, making it easier for teams to collaborate and maintain the software over time. Furthermore, fostering a culture of constructive feedback during code reviews encourages continuous learning and professional growth, rather than criticism. Ideally, code reviews should be conducted before merging changes into the main branch. This timing helps catch issues early, prevent the accumulation of technical debt, and ensure that only high-quality, well-tested code is integrated into the project, ultimately reducing future debugging and refactoring efforts.
+
+My code review will focus on three key categories: Software Engineering and Design, Algorithms and Data Structures, and Databases. For each category, I will describe the existing functionality, apply a checklist to analyze the code, and propose enhancements to improve quality, performance, and security.
+
+In the Software Engineering and Design category, I will begin by outlining the software's purpose, its core features, and any design patterns implemented. The code review will assess the structure of the code to ensure it is modular and maintainable. I will also examine the clarity of documentation and the meaningfulness of variable names, ensuring that they accurately reflect their purpose. Additionally, I will look for signs of defensive programming, such as proper error handling and mitigation of potential security risks. Based on the analysis, I will recommend enhancements such as refactoring the code to improve modularity, adding exception handling mechanisms, improving logging practices for better debugging, and enhancing documentation to support long-term maintainability.
+
+For the Algorithms and Data Structures category, I will describe the intended function of the algorithm, the types of data structures used, and the expected output. The review will include an analysis of the algorithm’s efficiency, with a focus on time complexity and the optimization of loops or recursive processes. I will also evaluate the code for secure input handling and the presence of tests that cover various edge cases. Enhancements in this area will include optimizing the algorithm to improve performance, implementing caching strategies where applicable, and adding unit tests to ensure reliability and correctness under different input scenarios.
+
+In the Databases category, I will explain the current database structure, the types of queries used, and the relationships among tables. The review will examine the database’s structural integrity, ensuring proper normalization and the use of efficient indexing to support performance. I will also assess security practices, such as protection against SQL injection, and evaluate the overall efficiency of query operations. To enhance this aspect of the system, I will suggest optimizing the schema design, implementing parameterized queries to prevent injection attacks, and refining indexing strategies to improve query performance.
+
+Overall, this structured review approach will help identify strengths and areas for improvement in each domain, leading to a more secure, efficient, and maintainable software solution.
 
 <div style="text-align: center;">
 	<a href="CodeReview" title="Artifacts Code Review">
