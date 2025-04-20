@@ -42,9 +42,9 @@ Each artifact was selected not only for its technical merit but also for how it 
 
 As a soon-to-be graduate, I am confident that the combination of my academic training, real-world project experience, and continuous learning mindset will allow me to thrive in the evolving field of computer science.
 
-###### Professional Skillset
+### Professional Skillset
 
-| Hard Skills                         | Soft Skills                                 |
+| #### **Hard Skills**                | #### **Soft Skills**                        |
 |:------------------------------------|:--------------------------------------------|
 | Python                              | Analytical thinking and problem-solving     |
 | Dash and Plotly                     | Attention to detail                         |
@@ -147,6 +147,26 @@ Ethical responsibilities include ensuring fairness, transparency, and privacy in
 </div>
 
 <img id="Databases" src="images/database.avif" alt="Databases" title="Databases" />
+
+The Excel spreadsheet from the DMR (Discrepant Material Report) system is used to track, document, and analyze product defects found during quality control processes. It typically includes fields such as defect type, quantity, lot number, description, part manufacturer, and open/closed date. This spreadsheet serves as a centralized record that helps teams monitor trends, prioritize issues, and drive improvements.
+
+To create a DMR, the process generally starts with identifying and recording a defect during inspection. The relevant details are entered into the system, including who discovered the issue, when and where it occurred, and pictures and documentation provided when applicable. Once documented, the issue is reviewed by Engineering, and a disposition is conducted. From there, actions are defined, implemented, and tracked within the DMR before and after resolution.
+
+Advantages of using the Excel-based DMR system include ease of use, accessibility, and flexibility. Most users are already familiar with Excel, which makes adoption simple. It also allows for quick sorting and filtering of data. However, disadvantages include limited scalability, risk of data entry errors, lack of real-time collaboration, and challenges in maintaining version control when multiple people are editing.
+
+In the future, the DMR system could evolve by integrating with automated data collection tools or dashboards. With added analytics or machine learning, it could even predict defect trends or automatically flag high-risk processes, further improving quality and efficiency.
+
+As a computer scientist, I approach problems methodically by first understanding the full scope of the problem, gathering requirements, and identifying constraints before diving into a solution. When our company requested a database and dashboard to support quality control efforts, I began by collaborating with stakeholders to clarify what data needed to be tracked, how it was currently being managed, and what insights they hoped to gain. This requirement-gathering phase was crucial to ensure the solution would align with real-world needs rather than just academic scenarios.
+
+Compared to previous assignments in other courses, this project felt more grounded in practical application. While coursework often focused on theoretical concepts or isolated features, this project required me to design a system that integrated multiple technologies (like a CSV dataset, Dash for the dashboard, and potentially MongoDB or local storage). It also pushed me to consider performance, user experience, and real-time interaction—all essential in a real-world environment but not always emphasized in class projects.
+
+For future projects, I would continue to use a client-centered design approach: starting with user interviews, creating mockups or wireframes, and iterating based on feedback. I would also implement strategies such as data modeling (ERDs), schema validation, and indexing early on to ensure scalability and efficiency. Additionally, I plan to leverage version control, modular code structure, and documentation practices to make the system maintainable and collaborative. Ultimately, balancing technical precision with user needs is what transforms a good solution into a great one.
+
+My work on this type of project can help a company streamline operations, improve decision-making, and enhance overall quality management. By developing a custom database and dashboard tailored to your processes, I can provide a centralized, organized view of key quality control data. This allows your team to quickly identify defect trends, monitor performance across different lines or shifts, and take proactive measures to reduce scrap or rework.
+
+Instead of manually searching through spreadsheets or relying on scattered reports, the dashboard offers real-time insights and visualizations that support faster, data-driven decisions. It can also reduce the chances of human error by automating data entry or standardizing how information is captured. Over time, this leads to more consistent reporting, improved traceability, and better accountability across teams.
+
+In short, the tools I create aren’t just about tracking defects—they empower my company to act on quality data more effectively. That leads to cost savings, higher product reliability, and ultimately a stronger competitive edge. As our processes evolve, these systems can also scale and adapt, making them long-term assets rather than short-term solutions.
 
 ---
 
