@@ -104,6 +104,8 @@ As a computer scientist, problem-solving involves breaking down the problem into
 
 Computer scientists solve complex problems by designing algorithms, creating systems, and building tools that improve efficiency, productivity, and decision-making. This work is essential in enabling organizations to harness technology for better outcomes. For a company like Grazioso Salvare, my work on the dashboard and database can streamline their operations, providing quick and accurate insights into animal shelter data. For instance, they can identify trends in animal intake or visualize breed distributions, enabling better resource allocation and decision-making. Such tools improve operational efficiency and contribute to the company’s broader mission of animal welfare. By delivering functional, user-friendly solutions, computer scientists help organizations achieve their goals more effectively.
 
+<img id="Dashboard" src="images/animal-dashboard1.png" alt="Dashboard" title="Dashboard" />
+
 ---
 
 [Software Design and Engineering Enhancement](./software-design-and-engineering.html)
