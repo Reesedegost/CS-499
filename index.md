@@ -7,6 +7,10 @@ title: Home
 
 # Welcome!
 
+# Welcome!
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/reese-hinojosa-5a4636287/)
+
 # <u>Table of Content</u>
 
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
@@ -52,7 +56,7 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 
 ---
 
-([./CS340.html](https://github.com/Reesedegost/CS-499/blob/main/CS340.md))
+[Software Design and Engineering](./software-design-and-engineering.html)
 
 ---
 
