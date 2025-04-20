@@ -113,6 +113,12 @@ Computer scientists solve complex problems by designing algorithms, creating sys
 ---
 
 <div style="text-align: right;">
+    <a href="./software-design-and-engineering.html" title="Software Design and Engineering">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Go to Software Design and Engineering &#8594;</button>
+    </a>
+</div>
+
+<div style="text-align: right;">
     <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
     </a>
@@ -139,6 +145,12 @@ Ethical responsibilities include ensuring fairness, transparency, and privacy in
 [Data Structures and Algorithms](./data-structures-and-algorithms.html)
 
 ---
+
+<div style="text-align: right;">
+    <a href="./data-structures-and-algorithms.html" title="Data Structures and Algorithms">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Go to Data Structures and Algorithms &#8594;</button>
+    </a>
+</div>
 
 <div style="text-align: right;">
     <a href="#">
@@ -176,10 +188,10 @@ In short, the tools I create aren’t just about tracking defects—they empower
 
 ---
 
-<div style="text-align: center;">
-	<a href="#Databases" title="Databases Enhancement">
-		<img src="https://img.shields.io/badge/Artifact-Enhancement_Plan_and_Code_Review-yellowgreen.svg?style=for-the-badge&logo=codereview" alt="Artifacts: Refinement Plan and Code Review" />
-	</a>
+<div style="text-align: right;">
+    <a href="./databases.html" title="Databases">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Go to Databases &#8594;</button>
+    </a>
 </div>
 
 <div style="text-align: right;">
