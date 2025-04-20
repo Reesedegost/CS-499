@@ -7,18 +7,20 @@ title: Home
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/reese-hinojosa-5a4636287/)
 
+[Email me](reeselegacyprep@gmail.com)
+
 [Link to another page](./another-page.html).
 
 # <u>Table of Content</u>
 
-&nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
+&nbsp;[Professional Self-Assessment](#Professional-Self-Assessment "Professional Self-Assessment")<br/>
 &nbsp;[Enhancement Plan and Code Review](#enhancement-plan-and-code-review)<br/>
 &nbsp;&nbsp;[Code Review Videos Link](#code-review-videos-link)<br/>
 &nbsp;[Software Design and Engineering](#Software-Design-and-Engineering "Software Design and Engineering")<br/>
 &nbsp;[Data Structures and Algorithms](#Data-Structures-and-Algorithms "Data Structures and Algorithms")<br/>
 &nbsp;[Databases](#Databases "Databases")<br/>
 
-<img id="Professional-self-assessment" src="images/Professional-self-assessment.jpg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
+<img id="Professional-Self-Assessment" src="images/Professional-self-assessment.jpg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
 Completing my Bachelor of Science in Computer Science has been a transformative experience, one that not only deepened my technical skillset but also helped me solidify my professional identity and goals. Through hands-on coursework, real-world-inspired projects, and the creation of this ePortfolio, I have been able to reflect on my growth, showcase my capabilities, and position myself as a competent and employable candidate in the competitive field of computer science. This portfolio serves as both a culmination of my academic journey and a launching point into my professional career, particularly as I transition into a Data Science Engineer role in the quality and manufacturing space.
 
@@ -74,7 +76,7 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 	</a>
 </div>
 
-<img id="Software Design and Engineering" src="images/software-engineering.png" alt="software-engineering" title="Software Design and Engineering" />
+<img id="Software-Design-and-Engineering" src="images/software-engineering.png" alt="Software Design and Engineering" title="Software Design and Engineering" />
 
 ---
 
@@ -88,7 +90,7 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
     </a>
 </div>
 
-<img id="Data Structures and Algorithms" src="images/ds-and-a.jpg" alt="Data Structures and Algorithms" title="Data Structures and Algorithms" />
+<img id="Data-Structures-and-Algorithms" src="images/ds-and-a.jpg" alt="Data Structures and Algorithms" title="Data Structures and Algorithms" />
 
 ---
 
