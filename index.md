@@ -14,9 +14,9 @@ title: Home
 &nbsp;[Professional Self-Assessment](#self-assessment "Professional Self-Assessment")<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;- [Enhancement Plan and Code Review](#enhancement-plan-and-code-review)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Code Review Videos Link](#code-review-videos-link)<br/>
-&nbsp;[Software Design and Engineering](#software-engineering "Software Design and Engineering")<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;- [Data Structures and Algorithms](#data-structures-and-algorithms)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;- [Databases](#databases)<br/>
+&nbsp;[Software Design and Engineering](#software-engineering "software-engineering")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;- [Data Structures and Algorithms](#ds-and-a "ds-and-a")<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;- [Database](#database "database")<br/>
 
 <img id="Professional-self-assessment" src="images/Professional-self-assessment.jpg" alt="Professional Self-Assessment" title="Professional Self-Assessment" />
 
@@ -60,6 +60,12 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 | Quality control data analysis       |                                             |
 | Reort automation tools and workflows|                                             |
 
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
+
 ## Enhancement Plan and Code Review
 
 <div style="text-align: center;">
@@ -75,6 +81,12 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 [Software Design and Engineering](./software-design-and-engineering.html)
 
 ---
+
+<div style="text-align: right;">
+    <a href="#">
+        <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
+    </a>
+</div>
 
 <img id="Data Structures and Algorithms" src="images/ds-and-a.jpg" alt="Data Structures and Algorithms" title="Data Structures and Algorithms" />
 
