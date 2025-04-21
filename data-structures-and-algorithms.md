@@ -4,7 +4,7 @@ layout: default
 
 # Data Structures and Algorithms Enhancement Narrative
 
-### Overall Impact**
+### Overall Impact
 
 | **Category**   | **Original**            | **Enhanced**                       |
 | :--------------|-------------------------|------------------------------------|
@@ -45,6 +45,7 @@ distance_reward = -0.1 * goal_distance
 > Blocked states: min_reward - 1
 > 
 > Discourages the agent from looping or attempting illegal moves, improving exploration efficiency.
+
 
 > Simplified and clarified logic for state updates, reward handling, and termination conditions.
 > 
