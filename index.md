@@ -122,6 +122,8 @@ Computer scientists solve complex problems by designing algorithms, creating sys
 
 For this project, I was provided with starter code that set up the game environment and some basic functionality for the treasure hunt game. My primary task was to implement a deep Q-learning algorithm to train the pirate agent to navigate the environment and find the treasure before the human player.
 
+<img id="Original Maze" src="images/maze1.png" alt="Original Maze" title="Original Maze" />
+
 I developed the reinforcement learning model by creating a neural network that approximates Q-values, allowing the agent to make decisions about which path to take. I implemented key techniques like experience replay to prevent overfitting and target networks to stabilize the training process. The core of my work focused on balancing exploration and exploitation to optimize the agent’s pathfinding ability. Through iterative training, I fine-tuned the agent's strategy to ensure it learned to avoid obstacles and find the treasure efficiently.
 
 A key challenge in this project was ensuring that the agent could learn to adapt to new environments and obstacles, which I addressed by using techniques like epsilon-greedy exploration. This allowed the agent to explore new strategies early on, but gradually shift toward exploiting learned behaviors as training progressed.
@@ -133,6 +135,8 @@ Computer scientists develop algorithms and systems to solve complex problems, su
 As a computer scientist, I first break down the problem into smaller, manageable components, such as the goal of pathfinding or decision-making. I then apply methods such as algorithm design, data analysis, and machine learning to address the challenge. In this case, I utilized deep Q-learning, balancing exploration and exploitation to efficiently solve the pathfinding problem.
 
 Ethical responsibilities include ensuring fairness, transparency, and privacy in AI applications. For the game, I must ensure that the agent behaves in a fair and predictable way, avoiding making the game unfairly difficult. Furthermore, I am responsible for the integrity of the code, ensuring it functions as intended without causing harm or unintended consequences.
+
+<img id="Completed Maze" src="images/maze2.png" alt="Completed Maze" title="Completed Maze" />
 
 ---
 
