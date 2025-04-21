@@ -4,9 +4,10 @@ layout: default
 
 # Data Structures and Algorithms Enhancement Narrative
 
-| **Overall Impact**                                                            |
-| :-----------------------------------------------------------------------------|
+### Overall Impact**
+
 | **Category**   | **Original**            | **Enhanced**                       |
+| :--------------|-------------------------|------------------------------------|
 | Reward System  | Binary/sparse           | Dense, directional, and penalizing |
 | Learning Speed | Slower                  | Faster convergence                 |
 | Agent Behavior | Random, trial-and-error | Strategic, goal-seeking            |
@@ -36,12 +37,17 @@ distance_reward = -0.1 * goal_distance
 ```
 
 > Increased punishment for:
+> 
 > Invalid actions: -1.0
+> 
 > Revisiting cells: -0.5
+> 
 > Blocked states: min_reward - 1
+> 
 > Discourages the agent from looping or attempting illegal moves, improving exploration efficiency.
 
 > Simplified and clarified logic for state updates, reward handling, and termination conditions.
+> 
 > Separated concerns across methods more cleanly, aiding maintenance and experimentation.
 
 Reflecting on the enhancement process, I learned a great deal about the challenges of optimizing reinforcement learning models. Implementing a decaying learning rate required careful tuning to balance exploration and exploitation. Additionally, adjusting the Q-learning parameters to ensure stable training without overfitting was a complex but rewarding challenge. One of the primary difficulties I faced was debugging unexpected agent behaviors, which required extensive testing and analysis of reward function modifications. Overall, this enhancement process deepened my understanding of reinforcement learning and further strengthened my skills in algorithms and data structures, making this artifact a valuable addition to my ePortfolio.
