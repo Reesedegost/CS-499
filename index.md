@@ -84,12 +84,6 @@ In the Databases category, I will explain the current database structure, the ty
 
 Overall, this structured review approach will help identify strengths and areas for improvement in each domain, leading to a more secure, efficient, and maintainable software solution.
 
-<div style="text-align: center;">
-	<a href="CodeReview" title="Artifacts Code Review">
-		<img src="https://img.shields.io/badge/Artifacts-Refinement_Plan and_Code_Review-yellowgreen.svg?style=for-the-badge&logo=codereview" alt="Artifacts: Refinement Plan and Code Review" />
-	</a>
-</div>
-
 <div style="text-align: right;">
     <a href="#">
         <button style="font-size: 10px; font-weight: 500; background: #4169e1; color: #ffffff; border-radius: 50px; border-style: solid; border-color: #4169e1; padding: 5px 8px;">Back to Top &#8593;</button>
