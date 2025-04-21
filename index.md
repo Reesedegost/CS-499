@@ -44,7 +44,7 @@ As a soon-to-be graduate, I am confident that the combination of my academic tra
 
 ### Professional Skillset
 
-| #### **Hard Skills**                | #### **Soft Skills**                        |
+| **Hard Skills**                     | **Soft Skills**                             |
 |:------------------------------------|:--------------------------------------------|
 | Python                              | Analytical thinking and problem-solving     |
 | Dash and Plotly                     | Attention to detail                         |
